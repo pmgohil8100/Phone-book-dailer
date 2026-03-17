@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">UniPhone</string>
+    <string name="dialer">Dialer</string>
+    <string name="phonebook">Phonebook</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="edit_contact">Edit Contact</string>
+    <string name="contact_name">Full Name</string>
+    <string name="contact_phone">Phone Number</string>
+    <string name="contact_email">Email (optional)</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="call">Call</string>
+    <string name="delete">Delete</string>
+    <string name="search_hint">Search contacts…</string>
+    <string name="no_contacts">No contacts found.</string>
+    <string name="confirm_delete">Delete this contact?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="permission_denied">Permission denied. Cannot make calls.</string>
+</resources>

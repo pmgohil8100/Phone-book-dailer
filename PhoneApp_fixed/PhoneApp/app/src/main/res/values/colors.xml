@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#1A237E</color>
+    <color name="primary_dark">#0D1466</color>
+    <color name="accent">#00E5FF</color>
+    <color name="accent_dark">#00B2CC</color>
+    <color name="background">#F5F6FA</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="text_primary">#1A1A2E</color>
+    <color name="text_secondary">#6B6B8A</color>
+    <color name="dialer_key_bg">#FFFFFF</color>
+    <color name="dialer_key_press">#E8EAF6</color>
+    <color name="call_green">#00C853</color>
+    <color name="delete_red">#FF1744</color>
+    <color name="avatar_bg">#3F51B5</color>
+    <color name="divider">#EEEEEE</color>
+    <color name="white">#FFFFFF</color>
+</resources>
